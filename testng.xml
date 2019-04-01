@@ -1,0 +1,7 @@
+<suite name="WeatherTestSuite">
+    <test name="CompareTemperature">
+        <classes>
+            <class name="Tests" />
+        </classes>
+    </test>
+</suite>
